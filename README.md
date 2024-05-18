@@ -1,2 +1,2 @@
-# EmbeddedLinux-Hazem
+# Embedded Linux-Hazem
 Markdown files for important notes and resources for each session in the course
