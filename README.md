@@ -1,2 +1,3 @@
 # Embedded Linux-Hazem
-Markdown files for important notes and resources for each session in the course
+---
+- This is an obsidian vault for the first part of the Embedded Linux Course (Linux Internals), to access the notes if you don't know how to use obsidian vaults just open them from the `Notes` file.
