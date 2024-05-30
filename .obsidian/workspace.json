@@ -11,14 +11,11 @@
             "id": "95a3168c647dcf88",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Linux Arch.canvas",
-                "viewState": {
-                  "x": 196.01386351636256,
-                  "y": -198.68129855614046,
-                  "zoom": -1.2791820874674382
-                }
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux Arch.canvas",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux Arch.canvas",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux Arch.canvas"
+                "file": "README.md"
               }
             }
           }
@@ -149,16 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "95a3168c647dcf88",
+  "active": "180d71829b83fd5d",
   "lastOpenFiles": [
+    "Images/Pasted image 20240530152843.png",
+    "Linux Arch.canvas",
+    "README.md",
+    "Blocks/Process.md",
     "Blocks/User Space.md",
     "Blocks/Syscall.md",
-    "Blocks/Process.md",
     "Blocks/Memory Management.md",
     "Blocks/Device Drivers.md",
     "Blocks/glibc.md",
     "Blocks/Network.md",
-    "Linux Arch.canvas",
     "Notes/Second Session.md",
     "Notes/First Session.md",
     "Untitled.md",
@@ -172,7 +171,6 @@
     "Images/Linux_system_arch (1).png",
     "Documents",
     "Images",
-    "Notes",
-    "README.md"
+    "Notes"
   ]
 }
