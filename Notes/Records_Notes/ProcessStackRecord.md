@@ -62,6 +62,12 @@
     >   Gap of knowledge: **Signal Handler**, last function to be called before termination ?
 > ❗Difference between signal and syscall ? signal is sent to process and syscall is sent to kernel
 - ## Operations
+    - Run 🏃
+    - Stop 🛑
+    - Send process to background
+    - Send process to foreground
+    - Send signal to process
+    - Change process priority
     - Check this link --> https://www.man7.org/linux/man-pages/man7/signal.7.html
 ---
 - ## Extras
@@ -69,6 +75,7 @@
 
 -   > ❗What are  **threads**  and its relation to pipelining ?
 -   **`lscpu`** Check this command and the data it outputs
+- https://stackoverflow.com/questions/8887531/which-real-time-priority-is-the-highest-priority-in-linux
 -   https://www.youtube.com/watch?v=aNEqC-U5tHM
 -   Check Signals Documentation
 ---

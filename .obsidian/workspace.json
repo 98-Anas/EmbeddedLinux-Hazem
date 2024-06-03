@@ -11,11 +11,14 @@
             "id": "95a3168c647dcf88",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Notes/Records_Notes/ProcessStackRecord.md",
-                "mode": "source",
-                "source": false
+                "file": "Linux Arch.canvas",
+                "viewState": {
+                  "x": -350.6067706626534,
+                  "y": 118.42426476702599,
+                  "zoom": -1.2791820874674382
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Records_Notes/ProcessStackRecord.md",
+                "file": "Documents/02 - Process Management Stack.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Records_Notes/ProcessStackRecord.md",
+                "file": "Documents/02 - Process Management Stack.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Records_Notes/ProcessStackRecord.md"
+                "file": "Documents/02 - Process Management Stack.pdf"
               }
             }
           }
@@ -148,28 +151,31 @@
   },
   "active": "95a3168c647dcf88",
   "lastOpenFiles": [
-    "Blocks/Process.md",
-    "Blocks/Syscall.md",
-    "Blocks/Network.md",
+    "Blocks/Syscalls.md",
+    "Documents/02 - Process Management Stack.pdf",
+    "Blocks/User Space.md",
+    "Linux Arch.canvas",
+    "Blocks/Process Stack.md",
+    "Blocks/Device Drivers.md",
     "Blocks/glibc.md",
     "Blocks/Memory Management.md",
-    "Blocks/User Space.md",
+    "Blocks/Network Stack.md",
+    "Notes/Records_Notes/ProcessStackRecord.md",
+    "Images/Process Management Stack (Recap).drawio.png",
+    "Images/System call Interface.drawio (2).png",
+    "Images/Linux_system_arch (1).png",
+    "Images/CanvasImage.png",
     "Notes/Third Session.md",
     "Notes/Second Session.md",
     "Notes/First Session.md",
-    "Notes/Records_Notes/ProcessStackRecord.md",
-    "Linux Arch.canvas",
     "README.md",
     "Images/Pasted image 20240530152843.png",
-    "Blocks/Device Drivers.md",
     "Untitled.md",
     "Blocks",
     "Documents/Linux Layered Diagram Use  Case.pdf",
     "Documents/Syscall Usecase.pdf",
     "Documents/01-Linux Arch.pdf",
     "Documents/System call_.pdf",
-    "Images/System call Interface.drawio (2).png",
-    "Images/Linux_system_arch (1).png",
     "Documents",
     "Images",
     "Notes"
