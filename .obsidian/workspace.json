@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ee46d80eb9f45982",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Second Session.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -148,33 +160,40 @@
   },
   "active": "95a3168c647dcf88",
   "lastOpenFiles": [
+    "Images/Filesystem FULL.drawio (3).png",
+    "Images/CanvasImage.png",
     "Linux Arch.canvas",
     "README.md",
-    "Images/CanvasImage.png",
+    "Blocks/Kernel Space.md",
     "Notes/Third Session.md",
+    "Notes/Second Session.md",
+    "Notes/First Session.md",
+    "Documents/03-Filessystem.pdf",
+    "Blocks/VFS.md",
+    "Documents/02 - Process Management Stack.pdf",
+    "Blocks/File System Stack.md",
+    "Documents/File-system stack use-case.pdf",
+    "Images/Filesystem-Recap.drawio.png",
+    "Blocks/Syscalls.md",
+    "Notes/Fifth Session.md",
+    "Notes/Fourth Session.md",
+    "Blocks/User Space.md",
+    "Blocks/Process Stack.md",
+    "Documents/01-Linux Arch.pdf",
     "Images/System call Interface.drawio (2).png",
     "Images/Process Management Stack (Recap).drawio.png",
     "Images/Linux_system_arch (1).png",
     "Documents/System call_.pdf",
-    "Documents/02 - Process Management Stack.pdf",
-    "Blocks/Syscalls.md",
-    "Blocks/User Space.md",
-    "Blocks/Process Stack.md",
     "Blocks/Device Drivers.md",
     "Blocks/glibc.md",
     "Blocks/Memory Management.md",
     "Blocks/Network Stack.md",
     "Notes/Records_Notes/ProcessStackRecord.md",
-    "Notes/Second Session.md",
-    "Notes/First Session.md",
     "Images/Pasted image 20240530152843.png",
-    "Untitled.md",
     "Blocks",
     "Documents/Linux Layered Diagram Use  Case.pdf",
     "Documents/Syscall Usecase.pdf",
-    "Documents/01-Linux Arch.pdf",
     "Documents",
-    "Images",
-    "Notes"
+    "Images"
   ]
 }
