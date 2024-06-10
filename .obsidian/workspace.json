@@ -11,8 +11,12 @@
             "id": "4d606039e21756cc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -140,11 +148,11 @@
   },
   "active": "4d606039e21756cc",
   "lastOpenFiles": [
-    "Blocks/VFS.md",
     "Linux Arch.canvas",
+    "Images/CanvasImage.png",
+    "Blocks/VFS.md",
     "README.md",
     "Images/Filesystem FULL.drawio (3).png",
-    "Images/CanvasImage.png",
     "Blocks/Kernel Space.md",
     "Notes/Third Session.md",
     "Notes/Second Session.md",
