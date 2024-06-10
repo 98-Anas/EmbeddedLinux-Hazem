@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7d69329a24e8517f",
+        "id": "43554870553c4ea1",
         "type": "tabs",
         "children": [
           {
-            "id": "95a3168c647dcf88",
+            "id": "4d606039e21756cc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee46d80eb9f45982",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Second Session.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -158,18 +138,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "95a3168c647dcf88",
+  "active": "4d606039e21756cc",
   "lastOpenFiles": [
-    "Images/Filesystem FULL.drawio (3).png",
-    "Images/CanvasImage.png",
+    "Blocks/VFS.md",
     "Linux Arch.canvas",
     "README.md",
+    "Images/Filesystem FULL.drawio (3).png",
+    "Images/CanvasImage.png",
     "Blocks/Kernel Space.md",
     "Notes/Third Session.md",
     "Notes/Second Session.md",
     "Notes/First Session.md",
     "Documents/03-Filessystem.pdf",
-    "Blocks/VFS.md",
     "Documents/02 - Process Management Stack.pdf",
     "Blocks/File System Stack.md",
     "Documents/File-system stack use-case.pdf",
